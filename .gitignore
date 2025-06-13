@@ -1,0 +1,11 @@
+__pycache__
+*.ckpt
+*.mid
+*.tar.gz
+*.zip
+metrics.csv
+.DS_Store
+lightning_logs
+tmp
+.venv
+.hypothesis
